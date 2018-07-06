@@ -1,3 +1,7 @@
+(function ($) {
+    Drupal.behaviors.ga_events = {
+        attach: function (context, settings) {
+
 <!--  44. Insights Page – Pagination – 2 -->
 
 $(document).on('click', '.pager .pager-item [href ^= "/insights?page=1"]', function() {
@@ -820,3 +824,7 @@ $(document).on('click', '[href ^= "/artikels/seo-en-copywriting-voor-webshops"]'
 $(document).on('click', '[href ^= "/artikels/seo-copywriting-enkele-tips"]', function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'SEO copywriting: enkele tips'});
 }); 
+
+        }
+    };
+})(jQuery);
