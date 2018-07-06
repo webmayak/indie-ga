@@ -1,60 +1,60 @@
 <!--  44. Insights Page – Pagination – 2 -->
 
-$('.pager .pager-item [href ^= "/insights?page=1"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=1"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 2','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 3 -->
 
-$('.pager .pager-item [href ^= "/insights?page=2"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=2"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 3','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 4 -->
 
-$('.pager .pager-item [href ^= "/insights?page=3"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=3"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 4','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 5 -->
 
-$('.pager .pager-item [href ^= "/insights?page=4"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=4"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 5','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 6 -->
 
-$('.pager .pager-item [href ^= "/insights?page=5"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=5"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 6','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 7 -->
 
-$('.pager .pager-item [href ^= "/insights?page=6"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=6"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 7','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 8 -->
 
-$('.pager .pager-item [href ^= "/insights?page=7"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=7"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 8','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 9 -->
 
-$('.pager .pager-item [href ^= "/insights?page=8"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=8"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 9','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 10 -->
 
-$('.pager .pager-item [href ^= "/insights?page=9"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=9"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 10','eventLabel':'Publications pagination'});
 });
 
 <!--  44. Insights Page – Pagination – 11 -->
 
-$('.pager .pager-item [href ^= "/insights?page=10"]').click (function() {
+$('.pager .pager-item [href ^= "/insights?page=10"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Pagination * 11','eventLabel':'Publications pagination'});
 });
 
@@ -62,43 +62,43 @@ $('.pager .pager-item [href ^= "/insights?page=10"]').click (function() {
 
 <!--  43. Insights Page – 1. Click on publication.GDPR  -->
 
-$('[href ^= "/insights/gdpr"]').click (function() {
+$('[href ^= "/insights/gdpr"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'GDPR'});
 });
 
 <!--  43. Insights Page – 1.  Indie Insights magazine 2017  -->
 
-$('[href ^= "/insights/indie-insights-magazine-2017"]').click (function() {
+$('[href ^= "/insights/indie-insights-magazine-2017"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Indie Insights magazine 2017'});
 });
 
 <!--  43. Insights Page – 1. De e-commerce trends in 2018  -->
 
-$('[href ^= "/insights/de-e-commerce-trends-2018"]').click (function() {
+$('[href ^= "/insights/de-e-commerce-trends-2018"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De e-commerce trends in 2018'});
 });
 
 <!--  43. Insights Page – 1. Click on publication. E-COMMERCE 360 - 2015.2  -->
 
-$('[href ^= "/insights/e-commerce-360-20152"]').click (function() {
+$('[href ^= "/insights/e-commerce-360-20152"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-COMMERCE 360 - 2015.2'});
 });
 
 <!--  43. Insights Page – 1. Click on publication.Hoe een e-commerce platform kiezen?  -->
 
-$('[href ^= "/artikels/hoe-een-e-commerce-platform-kiezen"]').click (function() {
+$('[href ^= "/artikels/hoe-een-e-commerce-platform-kiezen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Hoe een e-commerce platform kiezen?'});
 });
 
 <!--  43. Insights Page – 1. Click on publication. E-COMMERCE 360- 2015.1  -->
 
-$('[href ^= "/magazine/e-commerce-360-20151"]').click (function() {
+$('[href ^= "/magazine/e-commerce-360-20151"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-COMMERCE 360- 2015.1'});
 });
 
 <!--  43. Insights Page – 1. Click on publication. E-COMMERCE 360 - 2014.2  -->
 
-$('[href ^= "/magazine/e-commerce-360-20142"]').click (function() {
+$('[href ^= "/magazine/e-commerce-360-20142"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-COMMERCE 360 - 2014.2'});
 });
 
@@ -111,712 +111,712 @@ $('[href ^= "/magazine/e-commerce-360-20141"]').on('click', function() {
 
 <!--  43. Insights Page 2. – Click on publication. E-COMMERCE 360 - 2013  -->
 
-$('[href ^= "/magazine/e-commerce-360-2013"]').click (function() {
+$('[href ^= "/magazine/e-commerce-360-2013"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-COMMERCE 360 - 2013'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. Detremmerie introduceert configurator voor badkamermeubilair  -->
 
-$('[href ^= "/insights/detremmerie-introduceert-configurator-voor-badkamermeubilair"]').click (function() {
+$('[href ^= "/insights/detremmerie-introduceert-configurator-voor-badkamermeubilair"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Detremmerie introduceert configurator voor badkamermeubilair'});
 });
 
 
 <!--  43. Insights Page 2. – Click on publication. Customer Journey: optimaliseer de customer experience -->
 
-$('[href ^= "/artikels/customer-journey-optimaliseer-de-customer-experience-van-je-klanten"]').click (function() {
+$('[href ^= "/artikels/customer-journey-optimaliseer-de-customer-experience-van-je-klanten"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Customer Journey: optimaliseer de customer experience'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. Het verloren potentieel van e-commerce tussen bedrijven -->
 
-$('[href ^= "/artikels/het-verloren-potentieel-van-e-commerce-tussen-bedrijven"]').click (function() {
+$('[href ^= "/artikels/het-verloren-potentieel-van-e-commerce-tussen-bedrijven"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Het verloren potentieel van e-commerce tussen bedrijven'});
 });
 
 <!--  43. Insights Page  2. – Click on publication. Omnichannel: de voordelen voor B2B -->
 
-$('[href ^= "/artikels/omnichannel-de-voordelen-voor-b2b"]').click (function() {
+$('[href ^= "/artikels/omnichannel-de-voordelen-voor-b2b"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Omnichannel: de voordelen voor B2B'});
 });
 
 
 <!--  43. Insights Page 2. – Click on publication. Snel groeien met Growth Hacking -->
 
-$('[href ^= "/artikels/snel-groeien-met-growth-hacking"]').click (function() {
+$('[href ^= "/artikels/snel-groeien-met-growth-hacking"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Snel groeien met Growth Hacking'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. ERP-integratie zonder kopzorgen -->
 
-$('[href ^= "/artikels/erp-integratie-zonder-kopzorgen"]').click (function() {
+$('[href ^= "/artikels/erp-integratie-zonder-kopzorgen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'ERP-integratie zonder kopzorgen'});
 });
 
 <!--  43. Insights Page 2. – Click on publication.Boost conversies met geoptimaliseerde landingspagina: 10. -->
 
-$('[href ^= "/artikels/boost-conversies-met-geoptimaliseerde-landingspagina-10-tips"]').click (function() {
+$('[href ^= "/artikels/boost-conversies-met-geoptimaliseerde-landingspagina-10-tips"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Boost conversies met geoptimaliseerde landingspagina: 10'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. Systeemintegratie: de voordelen -->
 
-$('[href ^= "/artikels/systeemintegratie-de-voordelen"]').click (function() {
+$('[href ^= "/artikels/systeemintegratie-de-voordelen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Systeemintegratie: de voordelen'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. Overleeft jouw bedrijf de digitale wereld? -->
 
-$('[href ^= "/artikels/overleeft-jouw-bedrijf-de-digitale-wereld"]').click (function() {
+$('[href ^= "/artikels/overleeft-jouw-bedrijf-de-digitale-wereld"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Overleeft jouw bedrijf de digitale wereld?'});
 });
 
 <!--  43. Insights Page 2. – Click on publication. Marie-Marie maakt zich klaar voor de toekomst!  -->
 
-$('[href ^= "/artikels/marie-marie-maakt-zich-klaar-voor-de-toekomst"]').click (function() {
+$('[href ^= "/artikels/marie-marie-maakt-zich-klaar-voor-de-toekomst"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Marie-Marie maakt zich klaar voor de toekomst!'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Snel bovenaan de zoekresultaten met Google AdWords -->
 
-$('[href ^= "/artikels/snel-bovenaan-de-zoekresultaten-met-google-adwords"]').click (function() {
+$('[href ^= "/artikels/snel-bovenaan-de-zoekresultaten-met-google-adwords"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Snel bovenaan de zoekresultaten met Google AdWords'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Het proces van een geslaagde systeemintegratie -->
 
-$('[href ^= "/artikels/het-proces-van-een-geslaagde-systeemintegratie"]').click (function() {
+$('[href ^= "/artikels/het-proces-van-een-geslaagde-systeemintegratie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Het proces van een geslaagde systeemintegratie'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. De derde generatie e-commerce -->
 
-$('[href ^= "/artikels/de-derde-generatie-e-commerce"]').click (function() {
+$('[href ^= "/artikels/de-derde-generatie-e-commerce"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De derde generatie e-commerce'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Content marketing: hoe creëer je impact?  -->
 
-$('[href ^= "/artikels/content-marketing-hoe-cre%C3%ABer-je-impact"]').click (function() {
+$('[href ^= "/artikels/content-marketing-hoe-cre%C3%ABer-je-impact"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Content marketing: hoe creëer je impact?'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Boost je business: Hoe A/B testing jouw conversie verhoogt  -->
 
-$('[href ^= "/artikels/boost-je-business-hoe-ab-testing-jouw-conversie-verhoogt"]').click (function() {
+$('[href ^= "/artikels/boost-je-business-hoe-ab-testing-jouw-conversie-verhoogt"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Boost je business: Hoe A/B testing jouw conversie verhoogt'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Hou je vast voor de digitale disruptie  -->
 
-$('[href ^= "/artikels/hou-je-vast-voor-de-digitale-disruptie"]').click (function() {
+$('[href ^= "/artikels/hou-je-vast-voor-de-digitale-disruptie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Hou je vast voor de digitale disruptie'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Indie Group verstevigt zijn positie!  -->
 
-$('[href ^= "/artikels/indie-group-verstevigt-zijn-positie"]').click (function() {
+$('[href ^= "/artikels/indie-group-verstevigt-zijn-positie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Indie Group verstevigt zijn positie!'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Hoe ziet de migratie naar Magento 2 eruit?  -->
 
-$('[href ^= "/artikels/hoe-ziet-de-migratie-naar-magento-2-eruit"]').click (function() {
+$('[href ^= "/artikels/hoe-ziet-de-migratie-naar-magento-2-eruit"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Hoe ziet de migratie naar Magento 2 eruit? '});
 });
 
 <!--  43. Insights Page 3. – Click on publication. 10 tips om de gebruikerservaring op je website te  -->
 
-$('[href ^= "/artikels/10-tips-om-de-gebruikerservaring-op-je-website-te-optimaliseren"]').click (function() {
+$('[href ^= "/artikels/10-tips-om-de-gebruikerservaring-op-je-website-te-optimaliseren"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'10 tips om de gebruikerservaring op je website te'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. Magento 1 blijft (voorlopig) ondersteund  -->
 
-$('[href ^= "/artikels/magento-1-blijft-voorlopig-ondersteund"]').click (function() {
+$('[href ^= "/artikels/magento-1-blijft-voorlopig-ondersteund"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Magento 1 blijft (voorlopig) ondersteund'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. colora brengt uniek winkelconcept vol inspiratie én advies  -->
 
-$('[href ^= "/artikels/colora-brengt-uniek-winkelconcept-vol-inspiratie-%C3%A9n-advies-online"]').click (function() {
+$('[href ^= "/artikels/colora-brengt-uniek-winkelconcept-vol-inspiratie-%C3%A9n-advies-online"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'colora brengt uniek winkelconcept vol inspiratie én advies'});
 });
 
 <!--  43. Insights Page 3. – Click on publication. E-Business trends 2017  -->
 
-$('[href ^= "/artikels/e-business-trends-2017"]').click (function() {
+$('[href ^= "/artikels/e-business-trends-2017"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-Business trends 2017'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Hoe laat ik mijn customer service vlotter verlopen? Zo deed -->
 
-$('[href ^= "/artikels/hoe-laat-ik-mijn-customer-service-vlotter-verlopen-zo-deed-cid-lines-het"]').click (function() {
+$('[href ^= "/artikels/hoe-laat-ik-mijn-customer-service-vlotter-verlopen-zo-deed-cid-lines-het"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Hoe laat ik mijn customer service vlotter verlopen? Zo deed'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Live video: wat, waarom en hoe?  -->
 
-$('[href ^= "/artikels/live-video-wat-waarom-en-hoe"]').click (function() {
+$('[href ^= "/artikels/live-video-wat-waarom-en-hoe"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Live video: wat, waarom en hoe?'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Dit was Meet Magento NL 2017  -->
 
-$('[href ^= "/artikels/dit-was-meet-magento-nl-2017"]').click (function() {
+$('[href ^= "/artikels/dit-was-meet-magento-nl-2017"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Dit was Meet Magento NL 2017'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Indie Group draagt vanaf nu de kwaliteitsstempel Magento  -->
 
-$('[href ^= "/artikels/indie-group-draagt-vanaf-nu-de-kwaliteitsstempel-magento-hypernode-certified"]').click (function() {
+$('[href ^= "/artikels/indie-group-draagt-vanaf-nu-de-kwaliteitsstempel-magento-hypernode-certified"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Indie Group draagt vanaf nu de kwaliteitsstempel Magento'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Van social media strategie tot succesvolle social media  -->
 
-$('[href ^= "/artikels/van-social-media-strategie-tot-succesvolle-social-media-kanalen"]').click (function() {
+$('[href ^= "/artikels/van-social-media-strategie-tot-succesvolle-social-media-kanalen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Van social media strategie tot succesvolle social media'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Verschillende shops efficiënt sturen door middel van -->
 
-$('[href ^= "/artikels/verschillende-shops-effici%C3%ABnt-sturen-door-middel-van-systeemintegratie"]').click (function() {
+$('[href ^= "/artikels/verschillende-shops-effici%C3%ABnt-sturen-door-middel-van-systeemintegratie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Verschillende shops efficiënt sturen door middel van'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Breng structuur in je productaanbod in functie van je... -->
 
-$('[href ^= "/artikels/breng-structuur-je-productaanbod-functie-van-je-klantenprofielen"]').click (function() {
+$('[href ^= "/artikels/breng-structuur-je-productaanbod-functie-van-je-klantenprofielen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Breng structuur in je productaanbod in functie van je'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Google Data Studio nu beschikbaar in België -->
 
-$('[href ^= "/artikels/google-data-studio-nu-beschikbaar-belgi%C3%AB"]').click (function() {
+$('[href ^= "/artikels/google-data-studio-nu-beschikbaar-belgi%C3%AB"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Google Data Studio nu beschikbaar in België'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. B2B e-commerce - Een strategische keuze voor meerwaarde -->
 
-$('[href ^= "/artikels/b2b-e-commerce-een-strategische-keuze-voor-meerwaarde"]').click (function() {
+$('[href ^= "/artikels/b2b-e-commerce-een-strategische-keuze-voor-meerwaarde"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'B2B e-commerce - Een strategische keuze voor meerwaarde'});
 });
 
 
 <!--  43. Insights Page 4. – Click on publication. Van HTTP naar HTTPS -->
 
-$('[href ^= "/artikels/van-http-naar-https"]').click (function() {
+$('[href ^= "/artikels/van-http-naar-https"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Van HTTP naar HTTPS'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Waarom je echt een meetplan nodig hebt -->
 
-$('[href ^= "/artikels/waarom-je-echt-een-meetplan-nodig-hebt"]').click (function() {
+$('[href ^= "/artikels/waarom-je-echt-een-meetplan-nodig-hebt"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Waarom je echt een meetplan nodig hebt'});
 });
 
 <!--  43. Insights Page 4. – Click on publication. Meer kwalitatieve leads dankzij marketing automation -->
 
-$('[href ^= "/artikels/meer-kwalitatieve-leads-dankzij-marketing-automation"]').click (function() {
+$('[href ^= "/artikels/meer-kwalitatieve-leads-dankzij-marketing-automation"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Meer kwalitatieve leads dankzij marketing automation'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Buyer persona's en marketingbudget -->
 
-$('[href ^= "/artikels/buyer-personas-en-marketingbudget"]').click (function() {
+$('[href ^= "/artikels/buyer-personas-en-marketingbudget"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Buyer persona s en marketingbudget'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Belang OTAP-omgeving -->
 
-$('[href ^= "/artikels/belang-otap-omgeving"]').click (function() {
+$('[href ^= "/artikels/belang-otap-omgeving"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Belang OTAP-omgeving'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. 10 B2B digitale marketingtrends in 2017 -->
 
-$('[href ^= "/artikels/10-b2b-digitale-marketingtrends-2017"]').click (function() {
+$('[href ^= "/artikels/10-b2b-digitale-marketingtrends-2017"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'10 B2B digitale marketingtrends in 2017'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Safety First: Computer security day -->
 
-$('[href ^= "/artikels/safety-first-computer-security-day"]').click (function() {
+$('[href ^= "/artikels/safety-first-computer-security-day"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Safety First: Computer security day'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Baunat bekroond tot beste cross-border webshop van België -->
 
-$('[href ^= "/artikels/baunat-bekroond-tot-beste-cross-border-webshop-van-belgi%C3%AB"]').click (function() {
+$('[href ^= "/artikels/baunat-bekroond-tot-beste-cross-border-webshop-van-belgi%C3%AB"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Baunat bekroond tot beste cross-border webshop van België'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. De tip van Jonas -->
 
-$('[href ^= "/artikels/de-tip-van-jonas"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-jonas"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Jonas'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Webshop Funky Monkey -->
 
-$('[href ^= "/insights/webshop-funky-monkey"]').click (function() {
+$('[href ^= "/insights/webshop-funky-monkey"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Webshop Funky Monkey'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Tip van Kenneth -->
 
-$('[href ^= "/artikels/tip-van-kenneth"]').click (function() {
+$('[href ^= "/artikels/tip-van-kenneth"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Tip van Kenneth'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Instagram update: producten verkopen -->
 
-$('[href ^= "/artikels/instagram-update-producten-verkopen"]').click (function() {
+$('[href ^= "/artikels/instagram-update-producten-verkopen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Instagram update: producten verkopen'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. Webshop voorbereiden op de eindejaarsperiode -->
 
-$('[href ^= "/artikels/webshop-voorbereiden-op-de-eindejaarsperiode"]').click (function() {
+$('[href ^= "/artikels/webshop-voorbereiden-op-de-eindejaarsperiode"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Webshop voorbereiden op de eindejaarsperiode'});
 });
 
 <!--  43. Insights Page 5. – Click on publication. LinkedIn voor bedrijven -->
 
-$('[href ^= "/artikels/linkedin-voor-bedrijven"]').click (function() {
+$('[href ^= "/artikels/linkedin-voor-bedrijven"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'LinkedIn voor bedrijven'});
 });
 
 
 <!--  43. Insights Page 5. – Click on publication. Pinterest voor bedrijven -->
 
-$('[href ^= "/artikels/pinterest-voor-bedrijven"]').click (function() {
+$('[href ^= "/artikels/pinterest-voor-bedrijven"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Pinterest voor bedrijven'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Platform Verbond der Vlaamse Tandartsen -->
 
-$('[href ^= "/artikels/platform-verbond-der-vlaamse-tandartsen"]').click (function() {
+$('[href ^= "/artikels/platform-verbond-der-vlaamse-tandartsen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Platform Verbond der Vlaamse Tandartsen'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. "PIM" Productinformatie efficiënt beheren -->
 
-$('[href ^= "/artikels/pim-productinformatie-effici%C3%ABnt-beheren"]').click (function() {
+$('[href ^= "/artikels/pim-productinformatie-effici%C3%ABnt-beheren"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'"PIM" Productinformatie efficiënt beheren'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. E-fulfilment uitbesteden? -->
 
-$('[href ^= "/artikels/e-fulfilment-uitbesteden"]').click (function() {
+$('[href ^= "/artikels/e-fulfilment-uitbesteden"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'E-fulfilment uitbesteden?'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Digital Touchpoints in de praktijk  -->
 
-$('[href ^= "/artikels/digital-touchpoints-de-praktijk"]').click (function() {
+$('[href ^= "/artikels/digital-touchpoints-de-praktijk"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Digital Touchpoints in de praktijk '});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Je domeinnaam: het fundament van je online onderneming  -->
 
-$('[href ^= "/artikels/je-domeinnaam-het-fundament-van-je-online-onderneming"]').click (function() {
+$('[href ^= "/artikels/je-domeinnaam-het-fundament-van-je-online-onderneming"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Je domeinnaam: het fundament van je online onderneming'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Global Ecommerce Summit 2016  -->
 
-$('[href ^= "/artikels/global-ecommerce-summit-2016"]').click (function() {
+$('[href ^= "/artikels/global-ecommerce-summit-2016"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Global Ecommerce Summit 2016'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Palinghandel Borremans  -->
 
-$('[href ^= "/artikels/palinghandel-borremans"]').click (function() {
+$('[href ^= "/artikels/palinghandel-borremans"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Palinghandel Borremans'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Flanders Business School - Online Communicatie -->
 
-$('[href ^= "/artikels/flanders-business-school-online-communicatie"]').click (function() {
+$('[href ^= "/artikels/flanders-business-school-online-communicatie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Flanders Business School - Online Communicatie'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. De tip van Daphné: Bereik potentiële bezoekers via -->
 
-$('[href ^= "/artikels/de-tip-van-daphn%C3%A9-bereik-potenti%C3%ABle-bezoekers-remarketing"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-daphn%C3%A9-bereik-potenti%C3%ABle-bezoekers-remarketing"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Daphné: Bereik potentiële bezoekers via'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Instagram updates: Nieuwe bedrijfsprofielen met extra... -->
 
-$('[href ^= "/artikels/instagram-updates-nieuwe-bedrijfsprofielen-met-extra-mogelijkheden"]').click (function() {
+$('[href ^= "/artikels/instagram-updates-nieuwe-bedrijfsprofielen-met-extra-mogelijkheden"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Instagram updates: Nieuwe bedrijfsprofielen met extra'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Musebooks strikt het MoMa -->
 
-$('[href ^= "/artikels/musebooks-strikt-het-moma"]').click (function() {
+$('[href ^= "/artikels/musebooks-strikt-het-moma"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Musebooks strikt het MoMa'});
 });
 
 <!--  43. Insights Page 6. – Click on publication. Het ideale E-commerce parcours -->
 
-$('[href ^= "/artikels/het-ideale-e-commerce-parcours"]').click (function() {
+$('[href ^= "/artikels/het-ideale-e-commerce-parcours"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Het ideale E-commerce parcours'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. 6 e-mail marketing KPI's -->
 
-$('[href ^= "/artikels/6-e-mail-marketing-kpis"]').click (function() {
+$('[href ^= "/artikels/6-e-mail-marketing-kpis"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'6 e-mail marketing KPI'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Invloed van online media op offline verkoop -->
 
-$('[href ^= "/artikels/invloed-van-online-media-op-offline-verkoop"]').click (function() {
+$('[href ^= "/artikels/invloed-van-online-media-op-offline-verkoop"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Invloed van online media op offline verkoop'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Musebooks.world -->
 
-$('[href ^= "/artikels/musebooksworld"]').click (function() {
+$('[href ^= "/artikels/musebooksworld"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Musebooks.world'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. De tip van Jens: Verschillende mogelijkheden om korting te -->
 
-$('[href ^= "/artikels/de-tip-van-jens-verschillende-mogelijkheden-om-korting-te-geven-magento"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-jens-verschillende-mogelijkheden-om-korting-te-geven-magento"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Jens: Verschillende mogelijkheden om korting te'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Nieuw design Google Adwords  -->
 
-$('[href ^= "/artikels/nieuw-design-google-adwords"]').click (function() {
+$('[href ^= "/artikels/nieuw-design-google-adwords"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Nieuw design Google Adwords '});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Overzicht status codes  -->
 
-$('[href ^= "/artikels/overzicht-status-codes"]').click (function() {
+$('[href ^= "/artikels/overzicht-status-codes"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Overzicht status codes'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Montreal-Sport de voetbalspeciaalzaak  -->
 
-$('[href ^= "/artikels/montreal-sport-de-voetbalspeciaalzaak"]').click (function() {
+$('[href ^= "/artikels/montreal-sport-de-voetbalspeciaalzaak"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Montreal-Sport de voetbalspeciaalzaak'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Instagram wijzigt algoritme  -->
 
-$('[href ^= "/artikels/instagram-wijzigt-algoritme"]').click (function() {
+$('[href ^= "/artikels/instagram-wijzigt-algoritme"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Instagram wijzigt algoritme'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Conversie killers webshop  -->
 
-$('[href ^= "/artikels/conversie-killers-webshop"]').click (function() {
+$('[href ^= "/artikels/conversie-killers-webshop"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Conversie killers webshop'});
 });
 
 
 <!--  43. Insights Page 7. – Click on publication. Google Shopping campagnes bouwen  -->
 
-$('[href ^= "/artikels/google-shopping-campagnes-bouwen"]').click (function() {
+$('[href ^= "/artikels/google-shopping-campagnes-bouwen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Google Shopping campagnes bouwen'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Over Google Shopping  -->
 
-$('[href ^= "/artikels/over-google-shopping"]').click (function() {
+$('[href ^= "/artikels/over-google-shopping"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Over Google Shopping'});
 });
 
 <!--  43. Insights Page 7. – Click on publication. Mobielvriendelijk webdesign: praktische tips  -->
 
-$('[href ^= "/artikels/mobielvriendelijk-webdesign-praktische-tips"]').click (function() {
+$('[href ^= "/artikels/mobielvriendelijk-webdesign-praktische-tips"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Mobielvriendelijk webdesign: praktische tips'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Online catalogus tot volwaardig verkoopkanaal  -->
 
-$('[href ^= "/artikels/online-catalogus-tot-volwaardig-verkoopkanaal"]').click (function() {
+$('[href ^= "/artikels/online-catalogus-tot-volwaardig-verkoopkanaal"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Online catalogus tot volwaardig verkoopkanaal'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Nieuwe consument  -->
 
-$('[href ^= "/artikels/nieuwe-consument"]').click (function() {
+$('[href ^= "/artikels/nieuwe-consument"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Nieuwe consument'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Les Belges  -->
 
-$('[href ^= "/artikels/les-belges"]').click (function() {
+$('[href ^= "/artikels/les-belges"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Les Belges'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Social selling: Hoe pas je het correct toe & waar zit  -->
 
-$('[href ^= "/artikels/social-selling-hoe-pas-je-het-correct-toe-waar-zit-de-meerwaarde"]').click (function() {
+$('[href ^= "/artikels/social-selling-hoe-pas-je-het-correct-toe-waar-zit-de-meerwaarde"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Social selling: Hoe pas je het correct toe & waar zit'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Marketing automation  -->
 
-$('[href ^= "/artikels/marketing-automation"]').click (function() {
+$('[href ^= "/artikels/marketing-automation"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Marketing automation'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. La Chouffe webshop draagt steentje bij tot 'Love Brand  -->
 
-$('[href ^= "/artikels/la-chouffe-webshop-draagt-steentje-bij-tot-love-brand"]').click (function() {
+$('[href ^= "/artikels/la-chouffe-webshop-draagt-steentje-bij-tot-love-brand"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'La Chouffe webshop draagt steentje bij tot Love Brand'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Nieuwe editie E-commerce 360 magazine!  -->
 
-$('[href ^= "/artikels/nieuwe-editie-e-commerce-360-magazine"]').click (function() {
+$('[href ^= "/artikels/nieuwe-editie-e-commerce-360-magazine"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Nieuwe editie E-commerce 360 magazine!'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. Help, ik ben gehackt  -->
 
-$('[href ^= "/artikels/help-ik-ben-gehackt"]').click (function() {
+$('[href ^= "/artikels/help-ik-ben-gehackt"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Help, ik ben gehackt'});
 });
 
 <!--  43. Insights Page 8. – Click on publication. 5 logistieke e-commerce trends voor 2016  -->
 
-$('[href ^= "/artikels/5-logistieke-e-commerce-trends-voor-2016"]').click (function() {
+$('[href ^= "/artikels/5-logistieke-e-commerce-trends-voor-2016"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'5 logistieke e-commerce trends voor 2016'});
 }); 
 
 <!--  43. Insights Page 8. – Click on publication. Doelgroep bepalen facebook advertising  -->
 
-$('[href ^= "/artikels/doelgroep-bepalen-facebook-advertising"]').click (function() {
+$('[href ^= "/artikels/doelgroep-bepalen-facebook-advertising"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Doelgroep bepalen facebook advertising'});
 }); 
 
 <!--  43. Insights Page 8. – Click on publication. Webdesign trends voor 2016!  -->
 
-$('[href ^= "/artikels/webdesign-trends-voor-2016"]').click (function() {
+$('[href ^= "/artikels/webdesign-trends-voor-2016"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Webdesign trends voor 2016!'});
 });  
 
 <!--  43. Insights Page 8. – Click on publication. Interview met WALL MANIA MADNESS  -->
 
-$('[href ^= "/artikels/interview-met-wall-mania-madness"]').click (function() {
+$('[href ^= "/artikels/interview-met-wall-mania-madness"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Interview met WALL MANIA MADNESS'});
 });  
 
 <!--  43. Insights Page 9. – Click on publication. Tips URL optimalisatie  -->
 
-$('[href ^= "/artikels/tips-url-optimalisatie"]').click (function() {
+$('[href ^= "/artikels/tips-url-optimalisatie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Tips URL optimalisatie'});
 }); 
 
 <!--  43. Insights Page 9. – Click on publication. Release Magento 2  -->
 
-$('[href ^= "/artikels/release-magento-2"]').click (function() {
+$('[href ^= "/artikels/release-magento-2"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Release Magento 2'});
 }); 
 
 <!--  43. Insights Page 9. – Click on publication. Webshop verder uitbouwen op maat  -->
 
-$('[href ^= "/artikels/webshop-verder-uitbouwen-op-maat"]').click (function() {
+$('[href ^= "/artikels/webshop-verder-uitbouwen-op-maat"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Webshop verder uitbouwen op maat'});
 }); 
 
 <!--  43. Insights Page 9. – Click on publication. Winkelbezoek stimuleren via betaalde campagnes  -->
 
-$('[href ^= "/artikels/winkelbezoek-stimuleren-betaalde-campagnes"]').click (function() {
+$('[href ^= "/artikels/winkelbezoek-stimuleren-betaalde-campagnes"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Winkelbezoek stimuleren via betaalde campagnes'});
 });   
 
 <!--  43. Insights Page 9. – Click on publication. Digitale transformatie: 7 belangrijke stappen voor retailers  -->
 
-$('[href ^= "/artikels/digitale-transformatie-7-belangrijke-stappen-voor-retailers"]').click (function() {
+$('[href ^= "/artikels/digitale-transformatie-7-belangrijke-stappen-voor-retailers"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Digitale transformatie: 7 belangrijke stappen voor retailers'});
 });  
 
 <!--  43. Insights Page 9. – Click on publication. Starten met een webshop  -->
 
-$('[href ^= "/artikels/starten-met-een-webshop"]').click (function() {
+$('[href ^= "/artikels/starten-met-een-webshop"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Starten met een webshop'});
 });  
 
 
 <!--  43. Insights Page 9. – Click on publication. A/B testing als krachtige optimalisatie tool  -->
 
-$('[href ^= "/artikels/ab-testing-als-krachtige-optimalisatie-tool"]').click (function() {
+$('[href ^= "/artikels/ab-testing-als-krachtige-optimalisatie-tool"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'A/B testing als krachtige optimalisatie tool'});
 });   
 
 <!--  43. Insights Page 9. – Click on publication. Maak nu werk van je online activiteiten -->
 
-$('[href ^= "/artikels/maak-nu-werk-van-je-online-activiteiten"]').click (function() {
+$('[href ^= "/artikels/maak-nu-werk-van-je-online-activiteiten"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Maak nu werk van je online activiteiten'});
 });   
 
 <!--  43. Insights Page 9. – Click on publication. De tip van Dominique: -->
 
-$('[href ^= "/artikels/de-tip-van-dominique"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-dominique"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Dominique'});
 }); 
 
 <!--  43. Insights Page 9. – Click on publication. In-house development of partner?  -->
 
-$('[href ^= "/artikels/house-development-partner"]').click (function() {
+$('[href ^= "/artikels/house-development-partner"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'In-house development of partner?'});
 });  
 
 <!--  43. Insights Page 9. – Click on publication. Boost je business tijdens de eindejaarsperiode -->
 
-$('[href ^= "/artikels/boost-je-business-tijdens-de-eindejaarsperiode"]').click (function() {
+$('[href ^= "/artikels/boost-je-business-tijdens-de-eindejaarsperiode"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Boost je business tijdens de eindejaarsperiode'});
 }); 
 
 <!--  43. Insights Page 9. – Click on publication. Project in de kijker: Social media CID LINES -->
 
-$('[href ^= "/artikels/project-de-kijker-social-media-cid-lines"]').click (function() {
+$('[href ^= "/artikels/project-de-kijker-social-media-cid-lines"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Project in de kijker: Social media CID LINES'});
 });  
 
 <!--  43. Insights Page 10. – Click on publication. Project BAUNAT in de kijker -->
 
-$('[href ^= "/artikels/project-baunat-de-kijker"]').click (function() {
+$('[href ^= "/artikels/project-baunat-de-kijker"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Project BAUNAT in de kijker'});
 });
 
 <!--  43. Insights Page 10. – Click on publication. De tip van Kenneth -->
 
-$('[href ^= "/artikels/de-tip-van-kenneth"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-kenneth"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Kenneth'});
 });
 
 <!--  43. Insights Page 10. – Click on publication. 5 redenen om voor Drupal te kiezen -->
 
-$('[href ^= "/artikels/5-redenen-om-voor-drupal-te-kiezen"]').click (function() {
+$('[href ^= "/artikels/5-redenen-om-voor-drupal-te-kiezen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'5 redenen om voor Drupal te kiezen'});
 });
    
 <!--  43. Insights Page 10. – Click on publication. Betere prestaties dankzij bloggen -->
 
-$('[href ^= "/artikels/betere-prestaties-dankzij-bloggen"]').click (function() {
+$('[href ^= "/artikels/betere-prestaties-dankzij-bloggen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Betere prestaties dankzij bloggen'});
 });
 
 <!--  43. Insights Page 10. – Click on publication. Vernieuwe webshop Novolab -->
 
-$('[href ^= "/artikels/vernieuwe-webshop-novolab"]').click (function() {
+$('[href ^= "/artikels/vernieuwe-webshop-novolab"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Vernieuwe webshop Novolab'});
 });  
 
 
 <!--  43. Insights Page 10. – Click on publication. De tip van Piet -->
 
-$('[href ^= "/artikels/de-tip-van-piet"]').click (function() {
+$('[href ^= "/artikels/de-tip-van-piet"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'De tip van Piet'});
 });   
 
 <!--  43. Insights Page 10. – Click on publication. UGC social campagne -->
 
-$('[href ^= "/artikels/ugc-social-campagne"]').click (function() {
+$('[href ^= "/artikels/ugc-social-campagne"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'UGC social campagne'});
 });
 
 <!--  43. Insights Page 10. – Click on publication. Het skelet van jouw webshop -->
 
-$('[href ^= "/artikels/het-skelet-van-jouw-webshop"]').click (function() {
+$('[href ^= "/artikels/het-skelet-van-jouw-webshop"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Het skelet van jouw webshop'});
 });
 
 
 <!--  43. Insights Page 10. – Click on publication. Gebruik je smartphone als portefeuille -->
 
-$('[href ^= "/artikels/gebruik-je-smartphone-als-portefeuille"]').click (function() {
+$('[href ^= "/artikels/gebruik-je-smartphone-als-portefeuille"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Gebruik je smartphone als portefeuille'});
 }); 
 
 <!--  43. Insights Page 10. – Click on publication. Hoe optimaliseer je de customer journey?  -->
 
-$('[href ^= "/artikels/hoe-optimaliseer-je-de-customer-journey"]').click (function() {
+$('[href ^= "/artikels/hoe-optimaliseer-je-de-customer-journey"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Hoe optimaliseer je de customer journey?'});
 });  
 
 
 <!--  43. Insights Page 10. – Click on publication. Valcke bowling service deelt ervaring   -->
 
-$('[href ^= "/artikels/valcke-bowling-service-deelt-ervaring"]').click (function() {
+$('[href ^= "/artikels/valcke-bowling-service-deelt-ervaring"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Valcke bowling service deelt ervaring'});
 });   
 
 <!--  43. Insights Page 10. – Click on publication. Duvel Webshop upgrade naar Magento 1.9   -->
 
-$('[href ^= "/artikels/duvel-webshop-upgrade-naar-magento-19"]').click (function() {
+$('[href ^= "/artikels/duvel-webshop-upgrade-naar-magento-19"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Duvel Webshop upgrade naar Magento 1.9'});
 });  
 
 
 <!--  43. Insights Page 11. – Click on publication. Van ongelukkige naar gelukkige klant -->
 
-$('[href ^= "/artikels/van-ongelukkige-naar-gelukkige-klant"]').click (function() {
+$('[href ^= "/artikels/van-ongelukkige-naar-gelukkige-klant"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Van ongelukkige naar gelukkige klant'});
 }); 
 
 <!--  43. Insights Page 11. – Click on publication. Jens, onze magento developer, over magento -->
 
-$('[href ^= "/artikels/jens-onze-magento-developer-over-magento"]').click (function() {
+$('[href ^= "/artikels/jens-onze-magento-developer-over-magento"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Jens, onze magento developer, over magento'});
 });  
 
 <!--  43. Insights Page 11. – Click on publication. 7 concrete tips voor meer conversie op jouw website -->
 
-$('[href ^= "/artikels/7-concrete-tips-voor-meer-conversie-op-jouw-website"]').click (function() {
+$('[href ^= "/artikels/7-concrete-tips-voor-meer-conversie-op-jouw-website"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'7 concrete tips voor meer conversie op jouw website'});
 });  
 
 <!--  43. Insights Page 11. – Click on publication. Fiets!, met uitroepteken! -->
 
-$('[href ^= "/artikels/fiets-met-uitroepteken"]').click (function() {
+$('[href ^= "/artikels/fiets-met-uitroepteken"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Fiets!, met uitroepteken!'});
 });
 
 <!--  43. Insights Page 11. – Click on publication. Samen met Tripal bouwen aan Drupal websites -->
 
-$('[href ^= "/artikels/samen-met-tripal-bouwen-aan-drupal-websites"]').click (function() {
+$('[href ^= "/artikels/samen-met-tripal-bouwen-aan-drupal-websites"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Samen met Tripal bouwen aan Drupal websites'});
 });
 
 <!--  43. Insights Page 11. – Click on publication. USP's: Hoe val jij op tussen de concurrentie?  -->
 
-$('[href ^= "/artikels/usps-hoe-val-jij-op-tussen-de-concurrentie"]').click (function() {
+$('[href ^= "/artikels/usps-hoe-val-jij-op-tussen-de-concurrentie"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'USP s: Hoe val jij op tussen de concurrentie?'});
 });   
 
 <!--  43. Insights Page 11. – Click on publication. Digitale investeringsaftrek ook voor webshops -->
 
-$('[href ^= "/artikels/digitale-investeringsaftrek-ook-voor-webshops"]').click (function() {
+$('[href ^= "/artikels/digitale-investeringsaftrek-ook-voor-webshops"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Digitale investeringsaftrek ook voor webshops'});
 });    
 
 <!--  43. Insights Page 11. – Click on publication. Uw website koppelen met externe bronnen -->
 
-$('[href ^= "/artikels/uw-website-koppelen-met-externe-bronnen"]').click (function() {
+$('[href ^= "/artikels/uw-website-koppelen-met-externe-bronnen"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'Uw website koppelen met externe bronnen'});
 });   
 
 <!--  43. Insights Page 11. – Click on publication. SEO en copywriting voor webshops -->
 
-$('[href ^= "/artikels/seo-en-copywriting-voor-webshops"]').click (function() {
+$('[href ^= "/artikels/seo-en-copywriting-voor-webshops"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'SEO en copywriting voor webshops'});
 });  
 
 <!--  43. Insights Page 11. – Click on publication. SEO copywriting: enkele tips -->
 
-$('[href ^= "/artikels/seo-copywriting-enkele-tips"]').click (function() {
+$('[href ^= "/artikels/seo-copywriting-enkele-tips"]').click(function() {
 	dataLayer.push({ 'event':'autoEvent','eventCategory':'Publications', 'eventAction': 'Click on publication','eventLabel':'SEO copywriting: enkele tips'});
 }); 
