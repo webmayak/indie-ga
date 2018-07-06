@@ -828,3 +828,5 @@ $(document).on('click', '[href ^= "/artikels/seo-copywriting-enkele-tips"]', fun
         }
     };
 })(jQuery);
+
+Drupal.attachBehaviors();
